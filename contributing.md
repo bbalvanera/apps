@@ -144,7 +144,7 @@ to help pick accessible colors.
 
 - Must be a `.png`
 - Must be a square
-- Must be at least 256px by 256px
+- Must be at least 128px by 128px
 - Must **not** be a copy of another company's or application's icon (see submission guidelines below)
 
 ### Locales
